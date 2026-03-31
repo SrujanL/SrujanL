@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Full Stack Web Development
 - 🌱 I’m currently learning ... HTML CSS JAVASCRIPT
 - 💞️ I’m looking to collaborate on ... Web Developing
-- 📫 How to reach me ... through professional.srujan@gmail.com
+- 📫 How to reach me ... through professional.srujan@gmail.com / instagram.com/srujan.naidu/
 
 <!---
 SrujanL/SrujanL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
